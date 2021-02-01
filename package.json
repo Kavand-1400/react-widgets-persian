@@ -1,12 +1,12 @@
 {
   "_args": [
     [
-      "react-widgets-persian@1.1.0",
+      "react-widgets-persian@1.0.0",
       "D:\\Projects\\charge-react"
     ]
   ],
-  "_from": "react-widgets-persian@1.1.0",
-  "_id": "react-widgets-persian@1.1.0",
+  "_from": "react-widgets-persian@1.0.0",
+  "_id": "react-widgets-persian@1.0.0",
   "_inBundle": false,
   "_integrity": "sha512-gqdPFS/yl3wEnTovxHsoDciXs/CtZ+snL/X+nh/txW0A3Jw1KTrpUKIZBGOkzAsEdmRMggwtC3+tY6rsl58JYQ==",
   "_location": "/react-widgets-persian",
@@ -14,20 +14,20 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "react-widgets-persian@1.1.0",
+    "raw": "react-widgets-persian@1.0.0",
     "name": "react-widgets-persian",
     "escapedName": "react-widgets-persian",
-    "rawSpec": "1.1.0",
+    "rawSpec": "1.0.0",
     "saveSpec": null,
-    "fetchSpec": "1.1.0"
+    "fetchSpec": "1.0.0"
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-widgets-persian/-/react-widgets-persian-1.1.0.tgz",
+  "_resolved": "https://registry.npmjs.org/react-widgets-persian/-/react-widgets-persian-1.0.0.tgz",
   "_shasum": "76b019c72babfce593b03fe58147b0d27f387e3e",
-  "_spec": "react-widgets-persian@1.1.0",
+  "_spec": "react-widgets-persian@1.0.0",
   "_where": "D:\\Projects\\charge-react",
   "author": "",
   "bugs": {
@@ -133,5 +133,5 @@
   },
   "scripts": {},
   "types": "lib/index.d.js",
-  "version": "1.1.0"
+  "version": "1.0.0"
 }
